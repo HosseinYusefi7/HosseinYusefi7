@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HosseinYusefi7
 - 🌱 I’m currently learning React and Next.js
-- 💞️ I’m looking for an internship job for frontend development with ract
+- 💞️ I’m looking for an internship job for frontend development with react
 - 📫 How to reach me hosseinyusefi22@gmail.com
 
 <!---
