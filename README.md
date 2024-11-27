@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HosseinYusefi7
-- 👀 I’m interested in css, javascript
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking for an internship job for frontend development with ract
 - 📫 How to reach me hosseinyusefi22@gmail.com
